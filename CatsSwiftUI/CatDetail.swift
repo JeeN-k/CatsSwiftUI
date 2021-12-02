@@ -16,6 +16,6 @@ struct CatDetail: View {
 
 struct CatDetail_Previews: PreviewProvider {
     static var previews: some View {
-        CatDetail(photoName: "123")
+        CatDetail(photoName: "")
     }
 }
